@@ -130,6 +130,7 @@ public class Composicionn1 {
         System.out.println("Carrera: Ingenieria Automotriz \n");
         
         System.out.println("     -Ejercicio Agregacion/Composicion - \n" );
+        System.out.println("Arranque y apagado del motor \n");
         
         // DECLARACION Y DEFINICION DE OBJETOS  
 
